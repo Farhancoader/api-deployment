@@ -1,0 +1,4 @@
+workers: 13
+debug: true
+log_level: error
+api_key: key-7q0hyythid
